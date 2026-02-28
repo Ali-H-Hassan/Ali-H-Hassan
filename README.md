@@ -58,5 +58,3 @@ Outside of QA, I enjoy:
 - **Email**: [ali.7assan.a7@gmail.com](mailto:ali.7assan.a7@gmail.com)  
 
 ---
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-H-Hassan&theme=dark&show_icons=true)
